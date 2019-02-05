@@ -19,13 +19,11 @@ Firstly, it takes experience, lots of experience in fact, to identify Android op
 
 Finally we look at the Stack Machine Metaprogramming (SMMP) part of SAIGON. Although the name SMMP sounds daunting, it is again actually quite straight forward. To illustrate, consider these questions: 
 
-Q: How would you write a program without learning the programming language? 
+    Q: How would you write a program without learning the programming language? 
+    A: Just copy it. 
 
-A: Just copy it. 
-
-Q: How many lines of code do you need to modify to satisfy the requirements by a customer?
-
-A: As few as possible.
+    Q: How many lines of code do you need to modify to satisfy the requirements by a customer?
+    A: As few as possible.
 
 SMMP is simply an automatic way to do the above!! Wonderful, isn’t it?
 
