@@ -1,5 +1,5 @@
 # SAIGON
-SAIGON: Stack Machine Artificial Intelligence Graph Object Notation
+## SAIGON: Stack Machine Artificial Intelligence Graph Object Notation
 
 
 The name SAIGON (Stack Machine Artificial Intelligence Graph Object Notation) was coined partially as a pun to JSON, another acronym named after a place in South East Asia. SAIGON is a compatible extension to JSON (JavaScript Object Notation) with the following features:
