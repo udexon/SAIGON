@@ -1,6 +1,6 @@
 ## SAIGON: Stack Machine Artificial Intelligence Graph Object Notation
 
-[was -- SMJSON: JSON Format for SMGDB](https://github.com/udexon/SMMP/blob/master/SMJSON.md)
+([was -- SMJSON: JSON Format for SMGDB](https://github.com/udexon/SMMP/blob/master/SMJSON.md))
 
 ### A Homoiconic and Self-Evaluating JSON Format
 
@@ -10,16 +10,16 @@ A graph database can in theory include everything from a text file in a Unix lik
 
 However, GDB that include Unix files as nodes have not been widely available, representing the "last mile" for an Internet wide graph database.
 
-SMGDB / SMJSON is designed to fill this gap.
+SAIGON is designed to fill this gap.
 
 
-1. The primary purpose of SMJSON is to provide a readable, editable and "self evaluating" format of JSON to the Reverse Polish Notation used in Stack Machine Graph Database (SMGDB) / 5GL (Fifth Generation Graph Language).
+1. The primary purpose of SAIGON is to provide a readable, editable and "self evaluating" format of JSON to the Reverse Polish Notation used in Stack Machine Graph Database (SMGDB) / 5GL (Fifth Generation Graph Language).
 
 In example (2), bash history is saved to h_* from time to time. 
 
-`J_smjson` SMJSON will be the missing link for bash output text file to be interfaced to SMGDB and the rest of the World Wide Web.
+`J_smjson` SAIGON will be the missing link for bash output text file to be interfaced to SMGDB and the rest of the World Wide Web.
 
-JSON has the fundamental structure for constructing a graph database (GDB). However, it needs a high level interface to high level functions to form a GDB, which is provided by SMJSON.
+JSON has the fundamental structure for constructing a graph database (GDB). However, it needs a high level interface to high level functions to form a GDB, which is provided by SAIGON.
 
 2. Default filename is `J_smjson` or `.J_smjson` in each directory.
 
@@ -28,17 +28,17 @@ SMGDB uses the filename convention of `T_*` where `T` is a single alphanumeric c
 `key:` indicates start of key. `::` marks the end of key.
 
 ```
-#!smjson
+#!saigon
 c:
 p:: /home/hongwu/devel/5gl/coldef/h_5json
 l:: 2030
 d:: example history file
-E:: php smgdb.php array: a ap: b ap: array: swap: c apk: array: swap: c apk: je: s:
+E:: php saigon.php array: a ap: b ap: array: swap: c apk: array: swap: c apk: je: s:
 ::
 #end
 ```
 
-`#!smjson` may appear anywhere in the text file, indicating the beginning of SMJSON parsing. `#end` marks the end. As such, SMJSON can be included in any textfile. These tags maybe excluded from a dedicated SMJSON file.
+`#!saigon` may appear anywhere in the text file, indicating the beginning of SMJSON parsing. `#end` marks the end. As such, SAIGON can be included in any textfile. These tags maybe excluded from a dedicated SMJSON file.
 
 Double colon suffix `key::` can be used for single value or string as termination is newline.
 
@@ -53,7 +53,7 @@ k:: value
 
 3. Nested json:
 
-Single line (in SMGDB command line):
+Single line (in SAIGON command line):
 ```
 c: b: a b :: d: a c f :: ::
 ```
@@ -74,13 +74,13 @@ d: a c f ::
 
 5. Undefined lines will all be parsed as comments.
 
-6. The Reverse Polish Notation statements used in Stack Machine Graph Database (SMGDB) / 5GL (Fifth Generation Graph Language) maybe included in SMJSON as they can be parsed as string.
+6. The Reverse Polish Notation statements used in Stack Machine Graph Database (SMGDB) / 5GL (Fifth Generation Graph Language) maybe included in SAIGON as they can be parsed as string.
 
 Here we encounter the interesting propterties of homoiconicity again. 
 
-As RPN itself is homoiconic, SMJSON becomes a data file format that can include executable code (RPN), which can operate on itself.
+As RPN itself is homoiconic, SAIGON becomes a data file format that can include executable code (RPN), which can operate on itself.
 
-An RPN statement can consume itself as data input. But SMJSON is a comprehensive data file which can represent a comprehensive range of data structures, including RPN statements which can consume the host SMJSON as input.
+An RPN statement can consume itself as data input. But SAIGON is a comprehensive data file which can represent a comprehensive range of data structures, including RPN statements which can consume the host SAIGON as input.
 
 This leads to a "self evaluating" file format: Stack Machine Unified Modeling Language (SMUML).
 
