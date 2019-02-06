@@ -12,5 +12,6 @@ For a quick demonstration of SAIGON, please refer to:
 
 - http://5gl.epizy.com/nsm/fgl.html
 - https://github.com/udexon/SAIGON
+- [Metaprogramming: Inserting New Code to Kotlin Program](https://github.com/udexon/SAIGON/blob/master/S_insert.md)
 
 Further information on reverse Polish notation and stack machine programming can be found on Internet by searching for "Forth" or "online Forth".
