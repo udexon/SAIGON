@@ -8,3 +8,8 @@ We introduce SAIGON (Stack Machine Artificial Intelligence Graph Object Notation
 
 The very reason that everyone can "own a piece of AI" is due to the fact that SAIGON can be hosted on every piece of mobile device (phones, watches, game consoles included), with merely a few hundred lines of code -- thanks to the beauty of the stack machine architecture. This is a lost art that has been missing in the propaganda by supermega corporations, preferring to promote "cloud computing" solutions which make users more dependent on them, instead of empowering the users.
 
+For a quick demonstration of SAIGON, please refer to:
+
+http://5gl.epizy.com/nsm/fgl.html
+
+Further information on reverse Polish notation and stack machine programming can be found on Internet by searching for "Forth" or "online Forth".
