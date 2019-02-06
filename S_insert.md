@@ -115,3 +115,14 @@ It would be much easier to write a program to analyse Program B shown in table 4
 SAIGON or reverse Polish notation (RPN a la Forth) is perhaps the most compact form of human readable code (although there are more exotic programming languages like “Brainfuck” -- I kid you not, it exists!!). The crucial feature here is homoiconicity: the program code can be parsed as data and analysed, vice versa. Any other programming language would be too complicated to be parsed.
 
 SAIGON forces programmer to simplify program to stack machine minimal, hence easier to parse.
+
+Without homoiconicity, it will be impossible to write a "self evaluating program", e.g. to accomplish the seemingly trivial task of inserting Logcat code to "Hello world" Kotlin example.
+
+
+## Future Work
+
+- Extend Fotoapparat, add SAIGON interface, then add OpenCV image processing capabilities.
+
+This serves as the "grounding" for the SAIGON artificial intelligence module.
+
+- Write SAIGON in Kotlin (by extension Java).
