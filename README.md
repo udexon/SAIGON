@@ -1,6 +1,6 @@
-# SAIGON
+# SAIGON: Cloudias
 ## SAIGON: Stack Machine Artificial Intelligence Graph Object Notation
-
+### Cloudias: Cloud Intetelligence Artificielle SAIGON
 
 The name SAIGON (Stack Machine Artificial Intelligence Graph Object Notation) was coined partially as a pun to JSON, another acronym named after a place in South East Asia. SAIGON is a compatible extension to JSON (JavaScript Object Notation) with the following features:
 
@@ -14,6 +14,10 @@ This article is written as a tutorial for entry level programmers (6 months to 1
 
 - How a fresh programmer (or veteran programmer without the knowledge in a particular programming langauge) may master a new programming language using SAIGON stack machine notation.
 - How SAIGON stack machine notation can be used to build an artificial intelligence "self programmable" system that "understands its own code" and therefore "modifies itself".
+
+SAIGON will be the foundation of Cloudias, an artificial intelligence (French: intelligence artificielle) in the cloud -- Cloudias: Cloud Intelligence Artificielle SAIGON. We coin this term partly because English acronyms are a little too crowded, and Saigon was a French colony. 
+
+Distributed ownership, small footprint, easy to learn, universal, mathematics.
 
 
 ### Graph Isomorphism on the Input and Output of a Function
