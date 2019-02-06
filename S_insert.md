@@ -102,7 +102,7 @@ Table 4: Program B
 Table 4 shows a SAIGON (stack machine code) implemented in PHP to perform the equivalent task in table 3. 
 
 
-### Serious Discussions?
+### Discussions
 
 From the above seemingly trivial example, here is a serious questions:
 
@@ -126,3 +126,5 @@ Without homoiconicity, it will be impossible to write a "self evaluating program
 This serves as the "grounding" for the SAIGON artificial intelligence module.
 
 - Write SAIGON in Kotlin (by extension Java).
+
+- Code and configuration files as SAIGON graph database objects
