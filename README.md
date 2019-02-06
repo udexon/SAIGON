@@ -15,7 +15,7 @@ This article is written as a tutorial for entry level programmers (6 months to 1
 - How a fresh programmer (or veteran programmer without the knowledge in a particular programming langauge) may master a new programming language using SAIGON stack machine notation.
 - How SAIGON stack machine notation can be used to build an artificial intelligence "self programmable" system that "understands its own code" and therefore "modifies itself".
 
-SAIGON will be the foundation of Cloudias, an artificial intelligence (French: intelligence artificielle) in the cloud -- Cloudias: Cloud Intelligence Artificielle SAIGON. We coin this term partly because English acronyms are a little too crowded, and Saigon was a French colony. 
+SAIGON will be the foundation of Cloudias, an artificial intelligence (French: *intelligence artificielle*) in the cloud -- Cloudias: Cloud Intelligence Artificielle SAIGON. We coin this term partly because English acronyms are a little too crowded, and Saigon was a French colony. 
 
 *Distributed ownership, small footprint, easy to learn, universal, mathematics.*
 
