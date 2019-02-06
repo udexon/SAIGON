@@ -118,10 +118,6 @@ SAIGON forces programmer to simplify program to stack machine minimal, hence eas
 
 Without homoiconicity, it will be impossible to write a "self evaluating program", e.g. to accomplish the seemingly trivial task of inserting Logcat code to "Hello world" Kotlin example.
 
-- Why would a programmer wants to insert a `Logcat()` function in a program?
-- How could we simulate the programmer's decision to do so?
-- How could be set up a system that can 'self evaluate' a program that involves camera and image processing?
-- How can we make a program involoing camera and image processing 'self aware'?
 
 
 
@@ -134,3 +130,10 @@ This serves as the "grounding" for the SAIGON artificial intelligence module.
 - Write SAIGON in Kotlin (by extension Java).
 
 - Code and configuration files as SAIGON graph database objects
+
+With the examples and discussions above, we are now better prepared to consider the following fundamental questions:
+
+- Why would a programmer wants to insert a `Logcat()` function in a program?
+- How could we simulate the programmer's decision to do so?
+- How could be set up a system that can 'self evaluate' a program that involves camera and image processing?
+- How can we make a program involoing camera and image processing 'self aware'?
