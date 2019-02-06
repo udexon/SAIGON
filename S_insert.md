@@ -1,13 +1,48 @@
 ```
- 0   import java.io.File 
- 1   import java.io.InputStream 
+ 0   package com.developers.kotlintest 
+ 1    
+ 2   import android.support.v7.app.AppCompatActivity 
+ 3   import android.os.Bundle 
+ 4    
+ 5   class MainActivity : AppCompatActivity() { 
+ 6    
+ 7   override fun onCreate(savedInstanceState: Bundle?) { 
+ 8   super.onCreate(savedInstanceState) 
+ 9   setContentView(R.layout.activity_main) 
+ 10   } 
+ 11   }
+ ```
+
+```
+0   package com.developers.kotlintest
+1  
+2   import android.support.v7.app.AppCompatActivity
+3   import android.os.Bundle
+```
+*`4   import android.util.Log`*
+```
+5  
+6   class MainActivity : AppCompatActivity() {
+7  
+8       override fun onCreate(savedInstanceState: Bundle?) {
+9         Log.i("test","test")
+10          super.onCreate(savedInstanceState)
+11          setContentView(R.layout.activity_main)
+12      }
+13  }
+```
+
+
+```
+ 0    import java.io.File 
+ 1    import java.io.InputStream 
  2    
- 3   // readinsert.jar f0 f1 L0 L1 L2 L3 L4 .... 
- 4   // insert f1 line 0 to line L0 in f0 
- 5   // insert f1 line 1 to line L1 in f0 
- 6   // insert f1 line 2 to line L2 in f0 
+ 3    // readinsert.jar f0 f1 L0 L1 L2 L3 L4 .... 
+ 4    // insert f1 line 0 to line L0 in f0 
+ 5    // insert f1 line 1 to line L1 in f0 
+ 6    // insert f1 line 2 to line L2 in f0 
  7    
- 8   fun main(args: Array<String>) { 
+ 8    fun main(args: Array<String>) { 
  9    
  10   if (args.size == 0) { 
  11   println("Please provide a name as a command-line argument") 
