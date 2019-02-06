@@ -14,33 +14,23 @@
  ```
 Table 1
 
-```
+<pre>
 0   package com.developers.kotlintest
-1  
+1   
 2   import android.support.v7.app.AppCompatActivity
 3   import android.os.Bundle
-```
-*`4   import android.util.Log`*
-
-<code>
-0   package com.developers.kotlintest<p>
-1   <br>  
-2   import android.support.v7.app.AppCompatActivity<br>
-3   import android.os.Bundle<br>
-</code>
-
-
-```
+4   <i>import android.util.Log</i>
 5  
 6   class MainActivity : AppCompatActivity() {
 7  
 8       override fun onCreate(savedInstanceState: Bundle?) {
-9         Log.i("test","test")
+9           <i>Log.i("test","test")</i>
 10          super.onCreate(savedInstanceState)
 11          setContentView(R.layout.activity_main)
 12      }
 13  }
-```
+
+</pre>
 Table 2
 
 ```
