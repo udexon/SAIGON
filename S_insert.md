@@ -99,7 +99,7 @@ Table 3 shows a Kotlin program to add the lines to produce the code shown in tab
 ```
 Table 4: Program B
 
-Table 4 shows a SAIGON (stack machine code) implemented in PHP to perform the equivalent task in table 3. 
+Table 4 shows a SAIGON (stack machine code) program implemented in PHP to perform the equivalent task in table 3. 
 
 
 ### Discussions
