@@ -1,4 +1,4 @@
-## Now Everyone Can Program AI and *Own A Piece of It*!!
+## Now Everyone Can Program AI and *Own A Piece of It!!*
 
 As computer programming increasingly become a core curricula around the world, teenagers everywhere begin coding for various robotic and artificial intelligence projects.
 
