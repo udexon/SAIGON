@@ -91,24 +91,3 @@ Table 3
 ```
 Table 4
 
-| Line        | Code          
-| -------------:|:-------------|
-| 0 | php saigon.php sl: |
- | 1 | K/f1 fi: aswap: s: f1 bv: array: |
- | 2 | 8 ap: 4 ap: l bv: s: sbv: |
- | 3 | K/MainActivity.kt  fi: |
- | 4 | cx: s: L0 l: 1 - over: over: 12 swap: - |
- | 5 | dup: l tbv: - L1 bnz: |
- | 6 | l pbv: . f1 pbv:  esp: |
- | 7 | L1 l: esp: i: esp: |
- | 8 | L0 bnz: s: |
- | 9 |  |
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
