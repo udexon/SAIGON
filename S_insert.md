@@ -16,6 +16,8 @@ Table 1
 
 Source: https://github.com/amanjeetsingh150/kotlin-android-examples/blob/master/KotlinTest/app/src/main/java/com/developers/kotlintest/MainActivity.kt
 
+Let us consider a seemingly trivial exercise: add `Log.i("test","test")` to the start of `onCreate()` in the program shown above. For human programmer, it would be almost trivial. But how can human programmer write a program to do so instead?
+
 <pre>
 0   package com.developers.kotlintest
 1   
@@ -34,6 +36,8 @@ Source: https://github.com/amanjeetsingh150/kotlin-android-examples/blob/master/
 
 </pre>
 Table 2
+
+Table 2 shows the output results. Line 4 is required for `import`. The `Log.i()` function is added at line 9.
 
 ```
  0    import java.io.File 
@@ -78,7 +82,9 @@ Table 2
  39   } */ 
  40   } 
 ```
-Table 3
+Table 3: Program A
+
+Table 3 shows a Kotlin program to add the lines to produce the code shown in table 2.
 
 ```
  0   php saigon.php sl: 
@@ -91,5 +97,21 @@ Table 3
  7   L1 l: esp: i: esp: 
  8   L0 bnz: s:
 ```
-Table 4
+Table 4: Program B
 
+Table 4 shows a SAIGON (stack machine code) implemented in PHP to perform the equivalent task in table 3. 
+
+
+### Serious Discussions?
+
+From the above seemingly trivial example, here is a serious questions:
+
+- Is it possible to write a program to analyse Program A shown in table 3?
+
+That would be a tall order.
+
+It would be much easier to write a program to analyse Program B shown in table 4. This is where the homoiconic properties of stack machine / reverse Polish notation becomes significant.
+
+SAIGON or reverse Polish notation (RPN a la Forth) is perhaps the most compact form of human readable code (although there are more exotic programming languages like “Brainfuck” -- I kid you not, it exists!!). The crucial feature here is homoiconicity: the program code can be parsed as data and analysed, vice versa. Any other programming language would be too complicated to be parsed.
+
+SAIGON forces programmer to simplify program to stack machine minimal, hence easier to parse.
