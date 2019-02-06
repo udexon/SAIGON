@@ -17,7 +17,7 @@ This article is written as a tutorial for entry level programmers (6 months to 1
 
 SAIGON will be the foundation of Cloudias, an artificial intelligence (French: intelligence artificielle) in the cloud -- Cloudias: Cloud Intelligence Artificielle SAIGON. We coin this term partly because English acronyms are a little too crowded, and Saigon was a French colony. 
 
-*Distributed ownership, small footprint, easy to learn, universal, mathematics.
+*Distributed ownership, small footprint, easy to learn, universal, mathematics.*
 
 
 ### Graph Isomorphism on the Input and Output of a Function
