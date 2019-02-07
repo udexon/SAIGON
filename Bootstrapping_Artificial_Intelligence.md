@@ -7,6 +7,8 @@ Our hypothesis: bottleneck in AGI was due to lack of knowledge in Stack Machine,
 
 One most crucial factor: Homoiconicity -- program can be analyse as data, due to its simple structure. 99% or more of existing programs are NOT homoiconic. Knowledge of homoiconicity is rare. Too rare. Even Forth programmers are not concerned about this issue.
 
+Proof: Human language is homoiconic; Stack machine is simplest machine; Human brain could operate like a stack machine -- which is conceived by human brain; Try to prove it, contrary or otherwise, proving process will show truth.
+
 We propose modifications to the Turing Test based on techniques derived from graph theory. More specifically, 
 
 (i) Turing Test is generalized to a suite of enumerable tests, i.e. Enumerated Turing Tests.
