@@ -5,7 +5,7 @@ Yampolskiy (2018) gave a comprehensive review on ...
 
 Our hypothesis: bottleneck in AGI was due to lack of knowledge in Stack Machine, reverse polish notation, graph theory, graph database (4 areas, discuss in depths).
 
-One most crucial factor: Homoiconicity -- program can be analyse as data, due to its simple structure. 99% or more of existing programs are NOT homoiconic. Knowledge of homoiconicity is rare. Too rare. Even Forth programmers are not concerned about this issue.
+One most crucial factor: Homoiconicity -- program can be analyse as data, due to its simple structure. 99% or more of existing programs are NOT homoiconic. Knowledge of homoiconicity is rare. Too rare. Even Forth programmers are not concerned about this issue. Also needs a graph database that incorporates file system and the self program source code, and and sensor and Internet, external data.
 
 Proof: Human language is homoiconic; Stack machine is simplest machine; Human brain could operate like a stack machine -- which is conceived by human brain; Try to prove it, contrary or otherwise, proving process will show truth.
 
