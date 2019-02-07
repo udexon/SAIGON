@@ -5,6 +5,8 @@ Yampolskiy (2018) gave a comprehensive review on ...
 
 Our hypothesis: bottleneck in AGI was due to lack of knowledge in Stack Machine, reverse polish notation, graph theory, graph database (4 areas, discuss in depths).
 
+One most crucial factor: Homoiconicity -- program can be analyse as data, due to its simple structure. 99% or more of existing programs are NOT homoiconic. Knowledge of homoiconicity is rare. Too rare. Even Forth programmers are not concerned about this issue.
+
 We propose modifications to the Turing Test based on techniques derived from graph theory. More specifically, 
 
 (i) Turing Test is generalized to a suite of enumerable tests, i.e. Enumerated Turing Tests.
