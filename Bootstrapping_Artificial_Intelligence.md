@@ -3,6 +3,8 @@
 
 Yampolskiy (2018) gave a comprehensive review on ...
 
+Our hypothesis: bottleneck in AGI was due to lack of knowledge in Stack Machine, reverse polish notation, graph theory, graph database (4 areas, discuss in depths).
+
 We propose modifications to the Turing Test based on techniques derived from graph theory. More specifically, 
 
 (i) Turing Test is generalized to a suite of enumerable tests, i.e. Enumerated Turing Tests.
