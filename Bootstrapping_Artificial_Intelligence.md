@@ -20,6 +20,8 @@ We propose modifications to the Turing Test based on techniques derived from gra
 We believe our approach satisfies 
 the principle of Occam's razor, as it does not require exotic theories to model AI ranging from Narrow AI to AGI. 
 
+Occam's razor also implies that, by making efforts or tests to change its conditions, a different outcome may be achieved. Since Occam's razor requires least effort, therefore the effort invested to change the outcome will also be minimal. In this case, the parameter to measure will be the number of programmers who understand SAIGON, versus the output they can produce towards achieving AGI, measurable on a monthly basis.
+
 Further, we outline a practical plan to achieve AGI within finite time using finite resources, which we believe to be an unprecedented proposal.
 
 The adventure to find the secret recipes of AGI is perhaps unprecedented in mankind's history. The closest analogy is perhaps the invention of the transistor, which ushered in the age of electronics. The biggest difference is that, the number of researchers and programmers capable of making the breakthrough in AGI is much larger than those during the the invention of the transistor. As such, it may seem odd that AGI formula is NOT discovered sooner. 
