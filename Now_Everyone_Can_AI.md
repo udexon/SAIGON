@@ -1,5 +1,8 @@
 ## Now Everyone Can Program AI and *Own A Piece of It!!*
 
+
+\[ [Table of Contents](https://github.com/udexon/SAIGON/blob/master/0_Table_of_Contents.md) \]
+
 As computer programming increasingly become a core curricula around the world, teenagers everywhere begin coding for various robotic and artificial intelligence projects.
 
 However, beyond the initial excitement engulfing teachers and students, few people understand and are willing to discuss the widening knowledge gaps between supermega corporations and individual programmers -- forming the latest, perhaps the most dangerous type of class struggle.
