@@ -26,7 +26,11 @@ We have also identify a fundamental mechanism of "grounding" for the graph machi
 
 The most crucial starting point of the SAIGON project is the reverse Polish notation (5GL) used in its stack machine engine. Its simplicity and homoiconity implies that the code can be analysed by the graph machine itself, making it "self evaluating" and therefore "self aware". We believe the lack of knowledge about homoiconicity amongst programmers and AI researchers today is the primary reason for the bottleneck in AI research.
 
-- Cloudias, easy to learn, everyone can program AI.
+- Cloudias, easy to learn, everyone can program AI
+
+One last but not least breakthrough of SAIGON is the cloud implementation of SAIGON -- Cloudias (Cloud *Intelligence Artificielle SAIGON*). We believe RPN is perhaps one of simplest programming languages to learn and SAIGON can be implemented easily on any mobile device due to its small footprint. As such, potentially a large number of programmers or non-programmers can contribute to SAIGON/Cloudias, and *own a piece of it*, which is a very important incentive that breaks the monopolies of cloud computing infrastructure owned by supermega tech corporations.
+
+Further, RPN can also serve as a new foundation of mathematics and make learning of mathematics much easier, thus revolutionize it, as has been proven by projects such as HOL Light and SageMath.
 
 :: RPN/5GL because it is homoiconic, hence it can be analysed. Other programming language would make it impossible to do so.
 
