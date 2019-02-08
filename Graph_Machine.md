@@ -1,10 +1,7 @@
-## Bootstrapping Artificial Intelligence: Grounding and Metaprogramming
 ### Graph Machine: A Unified Graph Theoretic Model for Narrow Artificial Intelligence and Artificial General Intelligenec
 
 
 Yampolskiy (2018) gave a comprehensive review on ...
-
-Our hypothesis: bottleneck in AGI was due to lack of knowledge in Stack Machine, reverse polish notation, graph theory, graph database (4 areas, discuss in depths).
 
 We introduce the concept of a "graph machine", a graph comprising both data and code, and is therefore capable of evaluating itself, as model of the human mind. In practice, in order for the graph machine to be able to analyze its own code, it needs to be implemented using a homoiconic programming language. We have implemented a version of the reverse Polish notation, similar to the Forth programming language, called 5GL (the Fifth Generation Graph Language, partly as a pun to Forth). We call our graph machine SAIGON (Stack Machine Artificial Intelligence Graph Object Notation), initially as a pun and extension to JavaScript Object Notation.
 
