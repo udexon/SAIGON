@@ -1,4 +1,4 @@
-### Homoiconic Graph Machine: A Unified Graph Theoretic Model for Narrow Artificial Intelligence and Artificial General Intelligenec
+### Homoiconic Graph Machine: A Unified Graph Theoretic Model for Narrow Artificial Intelligence and Artificial General Intelligence
 
 \[ [Table of Contents](https://github.com/udexon/SAIGON/blob/master/0_Table_of_Contents.md) \]
 
