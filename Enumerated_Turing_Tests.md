@@ -2,6 +2,8 @@
 
 :: Bootstrapping Artificial Intelligence: Grounding and Metaprogramming
 
+:: Our hypothesis: bottleneck in AGI was due to lack of knowledge in Stack Machine, reverse polish notation, graph theory, graph database (4 areas, discuss in depths).
+
 :: denotes notes to be deleted from draft later
 
 :: Add these points to make complete introduction:
