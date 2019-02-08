@@ -2,6 +2,9 @@
 
 ([was -- SMJSON: JSON Format for SMGDB](https://github.com/udexon/SMMP/blob/master/SMJSON.md))
 
+
+\[ [Table of Contents](https://github.com/udexon/SAIGON/blob/master/0_Table_of_Contents.md) \]
+
 ### A Homoiconic and Self-Evaluating JSON Format
 
 A graph database (GDB) is a graph whose nodes may include any object defined by the properties of the edges and nodes of the graph. 
@@ -91,3 +94,6 @@ In example (2), the key `E` is a 5GL statement that produces a json object:
 7. Future: Stack Machine Artificial Intelligence (SMAI)?
 
 SMAI will be able to process natural languages and multimedia contents?
+
+
+\[ [Table of Contents](https://github.com/udexon/SAIGON/blob/master/0_Table_of_Contents.md) \]
