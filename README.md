@@ -2,6 +2,8 @@
 ## SAIGON: Stack Machine Artificial Intelligence Graph Object Notation
 ### Cloudias: Cloud Intetelligence Artificielle SAIGON
 
+\[ [Table of Contents](https://github.com/udexon/SAIGON/blob/master/0_Table_of_Contents.md) \]
+
 The name SAIGON (Stack Machine Artificial Intelligence Graph Object Notation) was coined partially as a pun to JSON, another acronym named after a place in South East Asia. SAIGON is a compatible extension to JSON (JavaScript Object Notation) with the following features:
 
 - It is human readable and editable.
@@ -36,3 +38,5 @@ The most important application of the idea of database function for the purpose 
 
 
 - [Bootstrapping Artificial Intelligence: Grounding and Metaprogramming](https://github.com/udexon/SAIGON/blob/master/SAIGON_Kotlin.md)
+
+\[ [Table of Contents](https://github.com/udexon/SAIGON/blob/master/0_Table_of_Contents.md) \]
