@@ -1,5 +1,7 @@
 ## Bootstrapping Artificial Intelligence: Grounding and Metaprogramming
-### SAIGON: A Unified Graph Theoretic Model for Narrow Artificial Intelligence and Artificial General Intelligenec
+### Graph Machine: A Unified Graph Theoretic Model for Narrow Artificial Intelligence and Artificial General Intelligenec
+
+was:: SAIGON: A Unified Graph Theoretic Model for Narrow Artificial Intelligence and Artificial General Intelligenec
 
 Yampolskiy (2018) gave a comprehensive review on ...
 
