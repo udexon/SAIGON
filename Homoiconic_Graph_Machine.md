@@ -1,5 +1,6 @@
 ### Homoiconic Graph Machine: A Unified Graph Theoretic Model for Narrow Artificial Intelligence and Artificial General Intelligenec
 
+\[ [Table of Contents](https://github.com/udexon/SAIGON/blob/master/0_Table_of_Contents.md) \]
 
 Yampolskiy (2018) gave a comprehensive review on ...
 
@@ -30,3 +31,5 @@ Further, RPN can also serve as a new foundation of mathematics and make learning
 
 
 Yampolskiy, R. V. (2018). Why We Do Not Evolve Software? Analysis of Evolutionary Algorithms. Evolutionary Bioinformatics, 14, 1176934318815906. https://doi.org/10.1177%2F1176934318815906
+
+\[ [Table of Contents](https://github.com/udexon/SAIGON/blob/master/0_Table_of_Contents.md) \]
