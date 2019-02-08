@@ -16,7 +16,13 @@ Further, Narrow AI can be categorized as node reducing functions (NF-). Database
 
 If NAI are node reducing functions, then there have to be node adding functions (NF+) to construct a graph machine that mimics the human mind. Otherwise there will not be functions that can increase the number of nodes in the graph machine, which will cause it to fail, as NF- would have no input data, which are equivalent to large number of nodes, to operate on. 
 
+:: Add these points to make complete introduction:
 
+- Gounding using Graph database, integrate Unix file system, program code as database object
+
+- Analyze RPN program, homoiconicity, self evaluating, self awareness
+
+- Cloudias, easy to learn, everyone can program AI.
 
 
 was:: SAIGON: A Unified Graph Theoretic Model for Narrow Artificial Intelligence and Artificial General Intelligenec
