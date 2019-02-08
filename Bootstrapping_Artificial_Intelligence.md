@@ -16,7 +16,6 @@ Further, Narrow AI can be categorized as node reducing functions (NF-). Database
 
 If NAI are node reducing functions (NF-), then there have to be node adding functions (NF+) to construct a graph machine that mimics the human mind. Otherwise there will not be functions that can increase the number of nodes in the graph machine, which will cause it to fail, as NF- would have no input data, which are equivalent to large number of nodes, to operate on. 
 
-:: Add these points to make complete introduction:
 
 - Gounding using graph database, integrate Unix file system, program code as database object
 
@@ -31,6 +30,10 @@ The most crucial starting point of the SAIGON project is the reverse Polish nota
 One last but not least breakthrough of SAIGON is the cloud implementation of SAIGON -- Cloudias (Cloud *Intelligence Artificielle SAIGON*). We believe RPN is perhaps one of simplest programming languages to learn and SAIGON can be implemented easily on any mobile device due to its small footprint. As such, potentially a large number of programmers or non-programmers can contribute to SAIGON/Cloudias, and *own a piece of it*, which is a very important incentive that breaks the monopolies of cloud computing infrastructure owned by supermega tech corporations.
 
 Further, RPN can also serve as a new foundation of mathematics and make learning of mathematics much easier, thus revolutionize it, as has been proven by projects such as HOL Light and SageMath.
+
+:: denotes notes to be deleted from draft later
+
+:: Add these points to make complete introduction:
 
 :: RPN/5GL because it is homoiconic, hence it can be analysed. Other programming language would make it impossible to do so.
 
