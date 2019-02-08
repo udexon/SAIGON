@@ -6,7 +6,7 @@ Yampolskiy (2018) gave a comprehensive review on ...
 
 Our hypothesis: bottleneck in AGI was due to lack of knowledge in Stack Machine, reverse polish notation, graph theory, graph database (4 areas, discuss in depths).
 
-We introduce the concept of a "graph machine", a graph comprising both data and code, and is therefore capable of evaluating itself, as model of the human mind. In practice, in order for the graph machine to be able to analyze its own code, it needs to be implemented using a homoiconic programming language. We have implemented a version of the reverse Polish notation, similar to the Forth programming language, called 5GL (the Fifth Generation Graph Language, partly as a pun to Forth).
+We introduce the concept of a "graph machine", a graph comprising both data and code, and is therefore capable of evaluating itself, as model of the human mind. In practice, in order for the graph machine to be able to analyze its own code, it needs to be implemented using a homoiconic programming language. We have implemented a version of the reverse Polish notation, similar to the Forth programming language, called 5GL (the Fifth Generation Graph Language, partly as a pun to Forth). We call our graph machine SAIGON (Stack Machine Artificial Intelligence Graph Object Notation), initially as a pun and extension to JavaScript Object Notation.
 
 One of the important breakthroughs in our investigation concerns the application of graph isomorphism to the input and output of a computer program function.
 
@@ -20,13 +20,20 @@ If NAI are node reducing functions (NF-), then there have to be node adding func
 
 - Gounding using graph database, integrate Unix file system, program code as database object
 
+We have also identify a fundamental mechanism of "grounding" for the graph machine: a graph database that includes the Unix filesystem, which in turn contains the graph machine itself, as a graph database object. By extension, the graph database will include code and data to capture and process external signals and data. We will include an Android Kotlin camera example to as demonstration.
+
 - Analyze RPN program, homoiconicity, self evaluating, self awareness
+
+The most crucial starting point of the SAIGON project is the reverse Polish notation (5GL) used in its stack machine engine. Its simplicity and homoiconity implies that the code can be analysed by the graph machine itself, making it "self evaluating" and therefore "self aware". We believe the lack of knowledge about homoiconicity amongst programmers and AI researchers today is the primary reason for the bottleneck in AI research.
 
 - Cloudias, easy to learn, everyone can program AI.
 
+:: RPN/5GL because it is homoiconic, hence it can be analysed. Other programming language would make it impossible to do so.
 
 was:: SAIGON: A Unified Graph Theoretic Model for Narrow Artificial Intelligence and Artificial General Intelligenec
+
 was:: ? 5AIGON? SAIGON or
+
 :: Saigon notes notation
 
 
