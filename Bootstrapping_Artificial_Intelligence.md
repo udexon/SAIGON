@@ -12,9 +12,16 @@ One of the important breakthroughs in our investigation concerns the application
 
 To put it simply, graph isomorphism simply means to compare if two graphs are “similar”. Of these properties, the number of nodes of a graph is the simplest measure of isomorphism. This operation conveniently divides computer program functions into database related and otherwise. In general, database functions increase the number of nodes in a graph (although we may use database functions to delete nodes in a graph). In contrast to this, most data processing functions take in a large array of numbers (represented as nodes of a graph) and transform them into a smaller set of array, thus reducing the number of nodes in the graph. The underlying principle is that we represent the knowledge of an individual human being as a graph, which is the most one of the most fundamental and flexible constructs in mathematics.
 
+Further, Narrow AI can be categorized as node reducing functions (NF-). Database functions include node adding functions (NF+) (delete node is of course trivial). We choose the acronyms NF+ instead of NAF for Node Adding Functions to avoid confusion with the acronym of NAI (narrow Artificial Intelligence). Because of the choice of NF+, we use NF- to denote node reducing functions.
+
+If NAI are node reducing functions, then there have to be node adding functions (NF+) to construct a graph machine that mimics the human mind. Otherwise there will not be functions that can increase the number of nodes in the graph machine, which will cause it to fail, as NF- would have no input data, which are equivalent to large number of nodes, to operate on. 
+
+
+
+
 was:: SAIGON: A Unified Graph Theoretic Model for Narrow Artificial Intelligence and Artificial General Intelligenec
 was:: ? 5AIGON? SAIGON or
-
+:: Saigon notes notation
 
 
 One most crucial factor: Homoiconicity -- program can be analyse as data, due to its simple structure. 99% or more of existing programs are NOT homoiconic. Knowledge of homoiconicity is rare. Too rare. Even Forth programmers are not concerned about this issue. Also needs a graph database that incorporates file system and the self program source code, and and sensor and Internet, external data.
