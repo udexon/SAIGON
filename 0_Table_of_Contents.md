@@ -15,3 +15,5 @@ Cloudias: Cloud Intetelligence Artificielle SAIGON
 [ Metaprogramming: Inserting New Code to Kotlin Program ](https://github.com/udexon/SAIGON/blob/master/S_insert.md)
 
 [ Now Everyone Can Program AI and *Own A Piece of It!!* ](https://github.com/udexon/SAIGON/blob/master/Now_Everyone_Can_AI.md)
+
+Necessity is the other of invention. GitHub Flavored MarkDown (GFM) was perhaps never intended as a replacement for blogs. However, its features and the control it provides to programmers make it our favourite. A minor innovation such as this `0_Table_of_Contents.md`, in addition to the ubiquitous `README.md` goes a long way to enhance GitHub Flavored MarkDown, to make it a hybrid platform for blogs (short) and technical publications (long), combining the best of both worlds.
