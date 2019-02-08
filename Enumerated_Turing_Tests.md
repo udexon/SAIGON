@@ -1,5 +1,7 @@
 ## Enumerated Turing Tests
 
+:: Bootstrapping Artificial Intelligence: Grounding and Metaprogramming
+
 :: denotes notes to be deleted from draft later
 
 :: Add these points to make complete introduction:
