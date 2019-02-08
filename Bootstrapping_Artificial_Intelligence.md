@@ -14,11 +14,11 @@ To put it simply, graph isomorphism simply means to compare if two graphs are â€
 
 Further, Narrow AI can be categorized as node reducing functions (NF-). Database functions include node adding functions (NF+) (delete node is of course trivial). We choose the acronyms NF+ instead of NAF for Node Adding Functions to avoid confusion with the acronym of NAI (narrow Artificial Intelligence). Because of the choice of NF+, we use NF- to denote node reducing functions.
 
-If NAI are node reducing functions, then there have to be node adding functions (NF+) to construct a graph machine that mimics the human mind. Otherwise there will not be functions that can increase the number of nodes in the graph machine, which will cause it to fail, as NF- would have no input data, which are equivalent to large number of nodes, to operate on. 
+If NAI are node reducing functions (NF-), then there have to be node adding functions (NF+) to construct a graph machine that mimics the human mind. Otherwise there will not be functions that can increase the number of nodes in the graph machine, which will cause it to fail, as NF- would have no input data, which are equivalent to large number of nodes, to operate on. 
 
 :: Add these points to make complete introduction:
 
-- Gounding using Graph database, integrate Unix file system, program code as database object
+- Gounding using graph database, integrate Unix file system, program code as database object
 
 - Analyze RPN program, homoiconicity, self evaluating, self awareness
 
