@@ -1,11 +1,21 @@
 ## Bootstrapping Artificial Intelligence: Grounding and Metaprogramming
 ### Graph Machine: A Unified Graph Theoretic Model for Narrow Artificial Intelligence and Artificial General Intelligenec
 
-was:: SAIGON: A Unified Graph Theoretic Model for Narrow Artificial Intelligence and Artificial General Intelligenec
 
 Yampolskiy (2018) gave a comprehensive review on ...
 
 Our hypothesis: bottleneck in AGI was due to lack of knowledge in Stack Machine, reverse polish notation, graph theory, graph database (4 areas, discuss in depths).
+
+We introduce the concept of a "graph machine", a graph comprising both data and code, and is therefore capable of evaluating itself, as model of the human mind. In practice, in order for the graph machine to be able to analyze its own code, it needs to be implemented using a homoiconic programming language. We have implemented a version of the reverse Polish notation, similar to the Forth programming language, called 5GL (the Fifth Generation Graph Language, partly as a pun to Forth).
+
+One of the important breakthroughs in our investigation concerns the application of graph isomorphism to the input and output of a computer program function.
+
+To put it simply, graph isomorphism simply means to compare if two graphs are “similar”. Of these properties, the number of nodes of a graph is the simplest measure of isomorphism. This operation conveniently divides computer program functions into database related and otherwise. In general, database functions increase the number of nodes in a graph (although we may use database functions to delete nodes in a graph). In contrast to this, most data processing functions take in a large array of numbers (represented as nodes of a graph) and transform them into a smaller set of array, thus reducing the number of nodes in the graph. The underlying principle is that we represent the knowledge of an individual human being as a graph, which is the most one of the most fundamental and flexible constructs in mathematics.
+
+was:: SAIGON: A Unified Graph Theoretic Model for Narrow Artificial Intelligence and Artificial General Intelligenec
+was:: ? 5AIGON? SAIGON or
+
+
 
 One most crucial factor: Homoiconicity -- program can be analyse as data, due to its simple structure. 99% or more of existing programs are NOT homoiconic. Knowledge of homoiconicity is rare. Too rare. Even Forth programmers are not concerned about this issue. Also needs a graph database that incorporates file system and the self program source code, and and sensor and Internet, external data.
 
