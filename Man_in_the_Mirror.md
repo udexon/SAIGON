@@ -25,4 +25,6 @@ However, a unified programming language on Android is only half the story -- con
 
 - [ SAIGON: Definition ](https://github.com/udexon/SAIGON/blob/master/SAIGON_def.md)
 
+Why do we choose "man in the mirror" instead of "crying baby" as the bootstrap experiment for our artificial intelligence experiments? We believe that "crying baby" concerns how a human baby alerts its guardians to give it nutrition on time. This scenario is however unrealistic for a mobile phone -- and the battery indicator replicates this function.
+
 Homoiconicity
