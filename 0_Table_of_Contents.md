@@ -17,6 +17,8 @@ Cloudias: Cloud Intetelligence Artificielle SAIGON
 
 [ Homoiconic Graph Machine: A Unified Graph Theoretic Model for Narrow Artificial Intelligence and Artificial General Intelligence ](https://github.com/udexon/SAIGON/blob/master/Homoiconic_Graph_Machine.md)
 
+[ Man in the Mirror" Experiment ](https://github.com/udexon/SAIGON/blob/master/Man_in_the_Mirror.md)
+
 [ Bootstrapping Artificial Intelligence: Grounding and Metaprogramming ](https://github.com/udexon/SAIGON/blob/master/SAIGON_Kotlin.md)
 
 [ Metaprogramming: Inserting New Code to Kotlin Program ](https://github.com/udexon/SAIGON/blob/master/S_insert.md)
