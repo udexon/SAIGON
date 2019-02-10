@@ -15,8 +15,8 @@ The following articles illustrate the basic principles of SAIGON and MitM:
 
 One of the biggest problems in Android application programming is the complexity of the toolchain and programming languages. We estimate it could take at least 6 months for a newbie (without any programming experience) to learn the basic concepts. Besides, after going through the "nightmare" of installing Android Studio and relevant tools, to compile a simple "Hello World" program would consume upwards of hundreds of MB of updates, with at least 10 minutes of wait time.
 
-The [SAIGON AJAX Example](http://5gl.epizy.com/nsm/fgl.html) illustrate how complex JavaScript and PHP functions can be executed in SAIGON stack machine framework using reverse Polish notation (RPN), one of the oldest yet simplest programming language, whose simplicity is testified by several generations of reverse Polish calculators, on par with the ubiquitous spreadsheet.
+The [SAIGON AJAX example](http://5gl.epizy.com/nsm/fgl.html) illustrate how complex JavaScript and PHP functions can be executed in SAIGON stack machine framework using reverse Polish notation (RPN), one of the oldest yet simplest programming language, whose simplicity is testified by generations of reverse Polish calculators, on par with the ubiquitous spreadsheet.
 
-ISYA
+The JavaScript module of the SAIGON AJAX example demonstrates the Inverse Shunting Yard Algorithm (ISYA), the inverse of Dijkstra's classic shunting yard algorithm (DSYA), illustrating how reverse Polish notation can be implemented in ANY known programming language in about 50 lines of JavaScript or PHP code, making it an ideal candidate as a universal interface script, to implement a Stack Machine Shell (SMASH) in any host programming language.
 
 Homoiconicity
