@@ -1,4 +1,4 @@
-### "Man in the Mirror" Experiment: Bootstraping AI with SAIGON Kotlin OpenCV
+### "Man in the Mirror" Experiment: Bootstrapping AI with SAIGON Kotlin OpenCV
 
 \[ [Table of Contents](https://github.com/udexon/SAIGON/blob/master/0_Table_of_Contents.md) \]
 
