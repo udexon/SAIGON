@@ -10,3 +10,5 @@ The following articles illustrate the basic principles of SAIGON and MitM:
 
 - [ Metaprogramming: Inserting New Code to Kotlin Program ](https://github.com/udexon/SAIGON/blob/master/S_insert.md)
 - [SAIGON AJAX Example](http://5gl.epizy.com/nsm/fgl.html)
+
+One of the biggest problem in Android application programming is the complexity of the toolchain and programming languages. We estimate it could take at least 6 months for a newbie (without any programming experience) to learn the basic concepts. Besides, after going through the "nightmare" of installing Android Studio and relevant tools, to compile a simple "Hello World" program would consume upwards of hundreds of MB of updates, at least 10 minutes of wait time.
