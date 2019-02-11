@@ -1,4 +1,4 @@
-### Beyond Deep Learning: Homoiconic Graph Metaprogramming
+### Beyond Deep Learning: Bootstrapping Artificial General Intelligence with Homoiconic Graph Metaprogramming
 
 \[ [Table of Contents](https://github.com/udexon/SAIGON/blob/master/0_Table_of_Contents.md) \]
 
@@ -20,6 +20,5 @@ There are essentially two important steps to implement symbol grounding: graph d
 
 Metaprogramming concerns writing a program that can analyse and modify another program(s). Homoiconicity concerns with a programming language that has the facilities to analyse its own syntax and structure. We focus on stack machine based reverse Polish notation, as we have shown that it can be ported to any known programming language.
 
-Beyond Deep Learning: Artificial Intelligence Metaprogramming
+In this project, we propose a ["Man in the Mirror"](https://github.com/udexon/SAIGON/blob/master/Man_in_the_Mirror.md) experiment, that involves coding in SAIGON/RPN, that in turn interfaces to Kotlin  OpenCV camera functions on Android devices, to simulate the sensation and thought process of a man (woman) looking at himself (herself) in the mirror.
 
-Symbol grounding problem. Graph database. 
