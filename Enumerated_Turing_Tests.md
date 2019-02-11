@@ -41,3 +41,10 @@ The adventure to find the secret recipes of AGI is perhaps unprecedented in mank
 ![alt text][InstaRank]
 
 [InstaRank]: https://github.com/udexon/SMMP/blob/master/Instagram_Rank_2019.png "Instagram Ranking Example"
+
+
+
+
+![alt text][InstaRank]
+
+[InstaRank]: https://github.com/udexon/SAIGON/blob/master/EnumTuringTests.png "Instagram Ranking Example"
