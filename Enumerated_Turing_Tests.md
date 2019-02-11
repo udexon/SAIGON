@@ -45,6 +45,6 @@ The adventure to find the secret recipes of AGI is perhaps unprecedented in mank
 
 
 
-![alt text][InstaRank]
+![alt text][EnumTuringTests]
 
-[InstaRank]: https://github.com/udexon/SAIGON/blob/master/EnumTuringTests.png "Instagram Ranking Example"
+[EnumTuringTests]: https://github.com/udexon/SAIGON/blob/master/EnumTuringTests.png "Instagram Ranking Example"
