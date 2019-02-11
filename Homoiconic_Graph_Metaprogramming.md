@@ -14,7 +14,7 @@ To address these drawbacks, we propose a solution based on graph theory called [
 - graph database
 - homoiconic metaprogramming
 
-The symbol grounding problem concerns mechanisms by which human beings associate meaning to a word. e.g. the sun, "come here", "go there", ... etc. In our humble opinion, there do not seem to be viable and practical theories or proposals to solve this problem. We propose [SAIGON](https://github.com/udexon/SAIGON/blob/master/README.md), a "homoiconic graph machine", with the hope to prove its viability by exhaustive negation, i.e. it is valid if we we cannot find test cases to negate it.
+The symbol grounding problem concerns mechanisms by which human beings associate meaning to a word. e.g. the sun, "come here", "go there", ... etc. In our humble opinion, there do not seem to be any viable and practical theories or proposals (with achievable timelines) to solve this problem. We propose [SAIGON](https://github.com/udexon/SAIGON/blob/master/README.md), a "homoiconic graph machine", with the hope to prove its viability by exhaustive negation, i.e. it is valid if we we cannot find test cases to negate it.
 
 There are essentially two important steps to implement symbol grounding: graph database and metaprogramming. In graph database, an object is related to multiple objects, which in turn are related to multiple objects. Further, the graph database objects must comprise not only pure data, but methods (functions) as well, which is why homoiconic metaprogramming is crucial.
 
