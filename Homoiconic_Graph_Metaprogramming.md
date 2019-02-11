@@ -18,6 +18,8 @@ The symbol grounding problem concerns mechanisms by which human beings associate
 
 There are essentially two important steps to implement symbol grounding: graph database and metaprogramming. In graph database, an object is related to multiple objects, which in turn are related to multiple objects. Further, the graph database objects must comprise not only pure data, but methods (functions) as well, which is why homoiconic metaprogramming is crucial.
 
+Metaprogramming concerns writing a program that can analyse and modify another program(s). Homoiconicity concerns with a programming language that has the facilities to analyse its own syntax and structure. We focus on stack machine based reverse Polish notation, as we have shown that it can be ported to any known programming language.
+
 Beyond Deep Learning: Artificial Intelligence Metaprogramming
 
 Symbol grounding problem. Graph database. 
