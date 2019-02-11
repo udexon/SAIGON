@@ -38,13 +38,16 @@ Further, we outline a practical plan to achieve AGI within finite time using fin
 
 The adventure to find the secret recipes of AGI is perhaps unprecedented in mankind's history. The closest analogy is perhaps the invention of the transistor, which ushered in the age of electronics. The biggest difference is that, the number of researchers and programmers capable of making the breakthrough in AGI is much larger than those during the the invention of the transistor. As such, it may seem odd that AGI formula is NOT discovered sooner. 
 
+```
 ![alt text][InstaRank]
 
 [InstaRank]: https://github.com/udexon/SMMP/blob/master/Instagram_Rank_2019.png "Instagram Ranking Example"
 
-
-
-
 ![alt text][EnumTuringTests]
 
-[EnumTuringTests]: https://github.com/udexon/SAIGON/blob/master/EnumTuringTests.png "Instagram Ranking Example"
+[EnumTuringTests]: https://github.com/udexon/SAIGON/blob/master/EnumTuringTests.png "Enumerated Turing Tests"
+
+<img src="url" alt="alt text" width="whatever" height="whatever">
+```
+
+<img src="https://github.com/udexon/SAIGON/blob/master/EnumTuringTests.png" alt="alt text" width="500" height="whatever">
