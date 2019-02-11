@@ -9,7 +9,7 @@ We identify two areas in artificial intelligence research that are critical for 
 - symbol grounding problem
 - metaprogramming
 
-To address these drawbacks, we propose a solution based on graph theory called SAIGON, that encompasses the following components:
+To address these drawbacks, we propose a solution based on graph theory called [SAIGON (Stack Machine Artificial Intelligence Object Notation)](https://github.com/udexon/SAIGON/blob/master/Homoiconic_Graph_Machine.md), that encompasses the following components:
 
 - graph database
 - homoiconic metaprogramming
